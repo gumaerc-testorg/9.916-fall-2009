@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section features a talk by Prof. Rebecca Saxe. The topic is "How
+  the Brain Invents the Mind."
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

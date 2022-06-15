@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with presentations
+  from each lecture session of the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ LECTURES
 Altruism
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit9_916f09_lec02))
+({{% resource_link ace264dd-0ec4-b332-a178-7be7af20a495 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +45,7 @@ Altruism
 Morality and norms
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit9_916f09_lec03))
+({{% resource_link 3ef86ee4-d98d-5421-91d3-b68e126ce425 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +57,7 @@ Morality and norms
 Empathy
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit9_916f09_lec04))
+({{% resource_link e35d1f84-0849-1b79-499c-8e087ea7c806 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +69,7 @@ Empathy
 Social perception
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit9_916f09_lec05))
+({{% resource_link f525c768-749c-2c14-04ca-2ea527f4c4a0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +81,7 @@ Social perception
 Theory of mind
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit9_916f09_lec06))
+({{% resource_link dc4a5d7b-087d-e587-52e2-0b9111ad8b30 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +93,7 @@ Theory of mind
 Communication
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.5MB]({{< baseurl >}}/resources/mit9_916f09_lec07))
+({{% resource_link 4c693217-f232-4126-334a-50e28e2edfa5 "PDF - 1.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +105,7 @@ Communication
 Ingroups and outgroups
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit9_916f09_lec08))
+({{% resource_link 4f20c991-bd40-3db0-399f-77c77c02926a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +117,7 @@ Ingroups and outgroups
 Aggression and dominance
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit9_916f09_lec09))
+({{% resource_link 893ee6cf-d903-0391-e25a-f5891efedf64 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +129,7 @@ Aggression and dominance
 Mating
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit9_916f09_lec10))
+({{% resource_link 308cba2e-0a3e-3ca0-23d0-ae16ed2c9400 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
