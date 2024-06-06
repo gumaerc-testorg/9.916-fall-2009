@@ -39,7 +39,7 @@ Altruism and cooperation
 
 Lehnmann, L., K. R. Foster, E. Borenstein, and M. W. Feldman. "Social and Individual Learning of Helping in Humans and Other Species." _Trends in Ecology and Evolution_ 23, no. 12 (2008): 664-71.
 
-{{% resource_link "00f503c0-e9fb-4e84-8561-0a5785a5069c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Tomasello, M. "Born (and Bred) to Help." In {{% resource_link "00f503c0-e9fb-4e84-8561-0a5785a5069c" "_Why We Cooperate_" %}}. Cambridge, MA: MIT Press, 2009. ISBN: 9780262013598.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262013598) Tomasello, M. "Born (and Bred) to Help." In [_Why We Cooperate_](https://mitpress.mit.edu/9780262013598). Cambridge, MA: MIT Press, 2009. ISBN: 9780262013598.
 
 Henrich, J., and N. Henrich. "Evolutionary Theory and the Social Psychology of Human Cooperation." In _Why Humans Cooperate_. New York, NY: Oxford University Press, 2007. ISBN: 9780195300680.
 
@@ -111,9 +111,9 @@ Empathy and helping
 
 ### Required
 
-{{% resource_link "00f503c0-e9fb-4e84-8561-0a5785a5069c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Tomasello, M. "Born (and Bred) to Help." In {{% resource_link "00f503c0-e9fb-4e84-8561-0a5785a5069c" "_Why We Cooperate_" %}}. Cambridge, MA: MIT Press, 2009. ISBN: 9780262013598.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262013598) Tomasello, M. "Born (and Bred) to Help." In [_Why We Cooperate_](https://mitpress.mit.edu/9780262013598). Cambridge, MA: MIT Press, 2009. ISBN: 9780262013598.
 
-{{% resource_link "f6c21b33-848c-4ade-9dbf-825d7e1effe4" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Decety, J., and W. Ickes. "These Things Called Empathy: Eight Related but Distinct Phenomena." In {{% resource_link "f6c21b33-848c-4ade-9dbf-825d7e1effe4" "_The Social Neuroscience of Empathy_" %}}. Cambridge, MA: MIT Press, 2009. ISBN: 9780262012973.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262012973) Decety, J., and W. Ickes. "These Things Called Empathy: Eight Related but Distinct Phenomena." In [_The Social Neuroscience of Empathy_](https://mitpress.mit.edu/9780262012973). Cambridge, MA: MIT Press, 2009. ISBN: 9780262012973.
 
 Leppanen, J. M., and C. A. Nelson. "Tuning the Developing Brain to Social Signals of Emotion." _Nature Reviews Neuroscience_ 10 (2009): 37-47.
 
@@ -187,7 +187,7 @@ Theory of mind and attribution
 
 Kelley, H. H., and J. L. Michela. "Attribution Theory and Research." _Annual Review of Psychology_ 31 (1980): 457-501.
 
-{{% resource_link "dc1f096a-03a1-435f-a655-1d2fb1299f6e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Platek, S. M., J. P. Keenan, and T. K. Shackelford. "The Evolution of Human Mindreading: How Non-Human Primates can Inform Social Cognitive Nuroscience". In {{% resource_link "dc1f096a-03a1-435f-a655-1d2fb1299f6e" "_Evolutionary Cognitive Neuroscience_" %}}. Cambridge, MA: MIT Press, 2006. ISBN: 9780262162418.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262162418) Platek, S. M., J. P. Keenan, and T. K. Shackelford. "The Evolution of Human Mindreading: How Non-Human Primates can Inform Social Cognitive Nuroscience". In [_Evolutionary Cognitive Neuroscience_](https://mitpress.mit.edu/9780262162418). Cambridge, MA: MIT Press, 2006. ISBN: 9780262162418.
 
 Banks, W. "Theory of Mind." In _Encyclopedia of Consciousness_. Burlington, MA: Academic Press, 2009. ISBN: 9780123738646.
 
